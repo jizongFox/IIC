@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.data/
+.idea/
+IIC/scripts/cluster/.data/
+IIC/scripts/cluster/out/
+out/
 
 # C extensions
 *.so
